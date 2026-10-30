@@ -15,3 +15,4 @@
 <img src="recording2.gif" style="width: 230px;">      
 
 
+pro tip... killing the app wont start a new game, but the new game button will.  you can focus on moves and close the app and come back later to the same game
